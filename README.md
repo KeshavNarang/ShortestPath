@@ -1,1 +1,2 @@
 # ShortestPath
+A very important algorithmic question is how we can find the shortest path between two nodes; it is used, for example, in companies that transport goods or provide emergency services. The attached file details each and every step of Djikstra's Algorithm, Bellman-Ford's Algorithm, and theDirected-Acylic-Graph Shortest Path Algorithm visually, in addition to code in Java for Djikstra's Algorithm, implemented in a graph with fifty nodes and many more edges. 
